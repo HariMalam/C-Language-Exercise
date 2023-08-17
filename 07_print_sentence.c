@@ -1,0 +1,1 @@
+// write c program to print the following sentence.
